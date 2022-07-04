@@ -1,10 +1,10 @@
 A plugin for [YOURLS](http://yourls.org) that shows QR codes for short URLs on share page using image-charts.com
 It shows SVG and PNG QR-Codes for Downloading.
 
-Installation
+INSTALLATION:
 To install this plugin copy it to the user/plugins folder and use the "Manage Plugins" page of Yourls to enable it.
 
-How can I get my QR-Codes-
+HOW CAN I GET MY QR-CODES:
 At the moment there seems to be a problem on the admin main page. No correct QR codes are generated here. So this is hidden with Custom CSS.
 You can download your codes via the Statistic button in the "Share" tab.
 
