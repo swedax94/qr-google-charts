@@ -11,3 +11,8 @@ DIV.share
 	align-items: center;
 	flex-direction: column;
 }
+
+/* Hide the QR-Codes on Main-Admin Page */
+.index.desktop #qrcode2, .index.desktop #qrcode3 {
+	display: none !important;
+}
